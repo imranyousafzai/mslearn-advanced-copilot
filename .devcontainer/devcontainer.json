@@ -33,7 +33,8 @@
 	"portsAttributes": {
 	  "8000": {
 		"label": "Application",
-		"onAutoForward": "openPreview"
+		"onAutoForward": "openPreview",
+		"visibility": "public"
 	  }
 	},
 	"remoteUser": "vscode"
